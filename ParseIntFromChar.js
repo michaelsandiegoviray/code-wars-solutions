@@ -10,7 +10,7 @@ Assume the test input string is always a valid string. For example, the test inp
 
 
 
-Here I went with the Parse Integer and spcified on the number which was x by using the zero index to make sure I always got x and not any other numbers in the case that there were any 
+Here I went with the Parse Integer and spcified on the number which was x by using the zero index to make sure I always got x and not any other numbers in the case that there were any just in case
 
 
 

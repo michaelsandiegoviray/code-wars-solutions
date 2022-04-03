@@ -4,4 +4,4 @@ var square = function (a) {
 }
 
 
-  // Square the methods here 
+  // Square the methods here git 
