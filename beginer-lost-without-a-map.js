@@ -1,20 +1,8 @@
-/*
-
-
-
-multiply = function (a, b) {
-   a * b;
+function maps(x) {
+    return x.map(n => n * 2);
 }
 
 
 
 
-What was missing here was the return to give a result back. If we do it it will run the value but be dropped into the abyss
-
-*/
-
-
-
-multiply = function (a, b) {
-    return a * b;
-}
+  // Map out a new array that returns a number multiplied by two for each element in the array
