@@ -11,12 +11,6 @@ Return "Not valid" if the input is not an integer or less than 0.
 
 
 
-
-
-
-
-
-
 */
 
 function palindrome(num) {
