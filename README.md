@@ -1,8 +1,11 @@
-# This will be a running script that includes JavaScript solutions for each and every problem along with notes on how I did it 
+# Codewars for the locals! 🌉 ✈️
+
+## Watch me commit 1000x so I can better understand Github as well as Codewars! 
+
+## Current Goal: 1000 problems by August
 
 
-# I will be going through each of these problems weekly with different solutions so I can better understand JavaScript
-
+# Currently: 101/1000
 
 
 
