@@ -5,7 +5,7 @@
 ## Current Goal: 1000 problems by August
 
 
-# Currently: 116/1000
+# Currently: 125/1000
 
 
 
