@@ -11,10 +11,6 @@ typeValidation(42, "number");   // => true
 typeValidation("42", "number"); // => false
 FUNDAMENTALS
 
-
-
-
-
 */
 
 
