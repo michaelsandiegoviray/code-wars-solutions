@@ -20,7 +20,3 @@ A string consists of lowercase latin letters, digits and symbols.
 */
 
 
-function reverseLetter(str) {
-    return str.replace(/[^a-zA-Z ]/g, "").replace(/\s/g, '').split('').reverse().join('')
-
-}
