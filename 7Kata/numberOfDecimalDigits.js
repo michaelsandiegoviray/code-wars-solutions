@@ -4,15 +4,11 @@ Determine the total number of digits in the integer (n>=0) given as input to the
 
 All inputs will be valid.
 
-
-
-  
-
   */
 
 
 
 
 function digits(n) {
-    return n.toString().length;
+  return n.toString().length;
 }
