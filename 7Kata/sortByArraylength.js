@@ -23,3 +23,6 @@ function sortByLength(array) {
 
     // Return an array containing the same strings, ordered from shortest to longest
 };
+
+
+// Here we are using the sort method and what we are sorting it by is the length of the first by the second and we returning the value 
