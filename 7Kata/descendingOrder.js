@@ -20,9 +20,17 @@ Suggest kata description edits
 */
 
 
-function descendingOrder(n){
+function descendingOrder(n) {
 
-    let newest = String(n).split('').sort((a,b)=> b-a).join('')
-    
+    let newest = String(n).split('').sort((a, b) => b - a).join('')
+
     return Number(newest)
-    }
+}
+
+
+    // Here we are making the number into a String using String()
+    // We are then using split('') to create a number array
+    // We will then use sort method with an arrow function to sort the numbers from highest to lowest
+    // We then use the join array to create a string
+    // We use newest to make it look clean ish?
+    // then we return newest variable as a Number -> of newest 
