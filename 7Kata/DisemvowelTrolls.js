@@ -30,3 +30,9 @@ function disemvowel(str) {
 
     return vowelsFiltered.join('')
 }
+
+
+// so here we are splitting vowels
+
+
+// we are using divider so split the string and then filter if the vowels to not include f then we will return  
