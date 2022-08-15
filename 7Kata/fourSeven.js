@@ -9,12 +9,17 @@ There are some very simple ways of answering this problem, but I encourage you t
 
 
 
-*/ 
+*/
 
 function fourSeven(n) {
-  while ( n===4 )
+  while (n === 4)
     return 7;
-  while ( n===7 )
+  while (n === 7)
     return 4;
   return 0;
 }
+
+
+// here we are using a function but we can also use a ternary
+
+return n == 4 ? 7 : n === 7 ? 4 : 0
