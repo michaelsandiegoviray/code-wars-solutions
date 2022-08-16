@@ -17,3 +17,5 @@ function filter_list(l) {
     // Return a new array with the strings filtered out
     return l.filter(item => typeof item === 'number')
 }
+
+// We are using typeof item to be a number so we're filtering the letters from the numbers 
