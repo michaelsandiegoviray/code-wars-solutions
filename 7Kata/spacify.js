@@ -15,3 +15,5 @@ function spacify(str) {
 
 
 }
+
+// We split the string and then we join it up 
