@@ -14,6 +14,9 @@ Examples
 
 
 function reverseWords(str) {
-    let result =  str.split(' ').map(word => word.split('').reverse().join('')).join(' ')
-      return result;
-      }
+  let result = str.split(' ').map(word => word.split('').reverse().join('')).join(' ')
+  return result;
+}
+
+
+      // Reverse word -> map and then split reverse join ->split reverse join
