@@ -15,13 +15,16 @@ The input string will only consist of lower case letters and/or spaces.
 function getCount(str) {
 
     let separation = str.split('')
-   
-    let vowels = ['a','e','i','o','u']
-     
-   let end =  separation.filter(neem => vowels.includes(neem))
-     
-   
-   return end.length
-   
-   
-   }
+
+    let vowels = ['a', 'e', 'i', 'o', 'u']
+
+    let end = separation.filter(neem => vowels.includes(neem))
+
+
+    return end.length
+
+
+}
+
+
+   // splitting
