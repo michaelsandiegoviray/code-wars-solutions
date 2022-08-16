@@ -36,3 +36,11 @@ function fizzbuzz(n) {
     return Michael
 
 }
+
+// Classic fizzbuzz Problem
+
+
+
+
+
+
