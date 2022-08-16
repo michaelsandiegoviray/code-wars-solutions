@@ -28,3 +28,8 @@ function sumCubes(n) {
 
 
 }
+
+
+
+// Looking from 1 to n 
+// 
