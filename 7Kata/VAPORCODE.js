@@ -20,3 +20,9 @@ function vaporcode(string) {
 
     return splitter.split('').join('  ')
 }
+
+
+
+// Here we are Capitalizing the split then join 
+
+// we return splitter and join it goether to a string
