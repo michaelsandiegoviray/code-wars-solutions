@@ -19,3 +19,7 @@ function squareDigits(num) {
     return Number(newArr.join(''))
 }
 
+
+
+
+// So here we use the forEach method -> and add it to the newArr to square it and then we return that array 
