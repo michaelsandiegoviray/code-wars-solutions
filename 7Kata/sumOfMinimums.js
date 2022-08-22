@@ -32,3 +32,5 @@ function sumOfMinimums(arr) {
     return newArr.reduce((a, b) => a + b, 0)
 
 }
+// New Array Here
+// New Array push and reduce 
