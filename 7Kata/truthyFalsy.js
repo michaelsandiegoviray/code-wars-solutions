@@ -20,3 +20,11 @@ FUNDAMENTALS
 */
 const truthy = [true, 1, 2, 3, 4, 5];
 const falsy = [null, NaN, false, 0, ''];
+
+
+
+//Truthy or falsy 
+
+// So we use truthy or falsy values 
+
+
