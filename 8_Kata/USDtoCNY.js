@@ -3,11 +3,7 @@ function usdcny(usd) {
     return `${(total.toFixed(2))} Chinese Yuan`;
 }
 
-
-
-
 /*
-
 
 Here we take the total and multiply by 6.75 then toFixed method which will give it to two decimals 
 then we used a template literal to change it up and provide us with a text answer

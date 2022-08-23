@@ -34,7 +34,4 @@ function average(array) {
     let appt = array.reduce((a, b) => a + b, 0)
 
     return total != 0 ? (appt / array.length) : 0
-
-
-
 }
