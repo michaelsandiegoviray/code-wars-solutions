@@ -29,4 +29,4 @@ devDependencies: compile-time dependencies of your application, things that shou
 The dependencies is an object with the name of modules as keys and the values are the versions. For example to require babel in your application you would have these entries:
 
 
-
+*/
