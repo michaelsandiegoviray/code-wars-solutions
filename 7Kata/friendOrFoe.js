@@ -20,3 +20,5 @@ function friend(friends) {
     return newArr
 }
 
+// using a filter we use length of 4 we will push a  into a newArr if not it will be null 
+// newArr -> we return it 
