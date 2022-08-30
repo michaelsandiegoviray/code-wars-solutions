@@ -12,8 +12,11 @@ function capitalizeWord(word) {
 */
 
 function capitalizeWord(word) {
-    let total = word.replace(word[0], word[0].toUpperCase());
+  let total = word.replace(word[0], word[0].toUpperCase());
 
-    return total
-        ;
+  return total
+    ;
 }
+
+
+// capitalize and uppercase the function and return it 
