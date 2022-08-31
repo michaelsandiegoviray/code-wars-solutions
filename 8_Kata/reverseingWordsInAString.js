@@ -23,3 +23,5 @@ Happy coding!
 function reverse(string) {
     return string.split("").join("").split(" ").reverse().join(" ")
 }
+
+// reversing the word when splitting it then joining
