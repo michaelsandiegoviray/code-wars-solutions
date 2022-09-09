@@ -31,3 +31,5 @@ function defineSuit(card) {
 
 
 }
+
+// here we use the method includes to see if it includes a certain suit, if it does then we will return the appropriate text
