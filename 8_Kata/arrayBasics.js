@@ -40,24 +40,27 @@ Series
 function getLength(arr) {
     //return length of arr
     return arr.length
+    // length will give the length of an array with a number value 
 }
 function getFirst(arr) {
-    //return the first element of arr
+    //return the first element of arr, remember arrays are zero indexed meaning it starts at zero 
     return arr[0]
 }
 function getLast(arr) {
     //return the last element of arr
     return arr[arr.length - 1]
+
+    // to get the last we will take the length which will give us the number of things in the array but we need to minus one since arrays are zero indexed
 }
 function pushElement(arr) {
     var el = 1;
 
-
+    // push an element into the array 
     arr.push(el)
     return arr
 }
 function popElement(arr) {
-
+    // remove an element off the array 
     arr.pop()
     return arr
 }
