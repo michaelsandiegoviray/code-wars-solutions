@@ -17,3 +17,6 @@ function grow(x) {
 
 
 }
+
+
+// so here we are reducing and instead of adding like we usually do we are multiplying the values together
