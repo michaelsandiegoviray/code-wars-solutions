@@ -16,3 +16,6 @@ function binToDec(bin) {
 
     return end
 }
+
+
+// binary to decimal using Parse Integer to binary and using 2
