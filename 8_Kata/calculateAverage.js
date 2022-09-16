@@ -23,3 +23,5 @@ function find_average(array) {
 
     return total != 0 ? total / array.length : 0;
 }
+
+// we can find the average by reducing then taking the array length 
