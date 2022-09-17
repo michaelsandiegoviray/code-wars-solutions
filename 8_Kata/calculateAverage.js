@@ -14,8 +14,8 @@ I would return the total/array.length if it doesn't equal 0 and the falsy value 
 
 
 
-*/
 
+*/
 
 function find_average(array) {
 
