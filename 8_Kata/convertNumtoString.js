@@ -16,3 +16,6 @@ function numberToString(num) {
 }
 
 
+
+
+// Num to string using the toString() method
