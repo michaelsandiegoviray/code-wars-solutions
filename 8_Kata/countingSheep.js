@@ -40,8 +40,10 @@ Hint: Don't forget to check for bad values like null/undefined
 function countSheeps(arrayOfSheep) {
 
 
-    let total = arrayOfSheep.filter(a => a === true ? true : false).length
+  let total = arrayOfSheep.filter(a => a === true ? true : false).length
 
-    return total
+  return total
 
 }
+
+// here we are filtering for those that are true and those that are false by length 
