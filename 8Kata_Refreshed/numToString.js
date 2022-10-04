@@ -12,3 +12,10 @@ Examples (input --> output):
 
 
 */
+
+
+function numberToString(num) {
+
+    return num.toString()
+
+}
