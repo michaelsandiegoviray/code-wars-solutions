@@ -9,7 +9,7 @@ Examples (input --> output):
 999  --> "999"
 -100 --> "-100"
 
-
+Here we use the toString() method to convert the parameter num into a string we desire
 
 */
 
