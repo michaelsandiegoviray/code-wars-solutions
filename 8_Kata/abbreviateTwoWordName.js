@@ -11,7 +11,6 @@ patrick feeney => P.F
 
 
 */
-
 function abbrevName(name) {
 
 
@@ -28,21 +27,7 @@ function abbrevName(name) {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// function abbrevName(name) {
+// ALTERNATE SOLUTION : function abbrevName(name) {
 
 //     let divided = name.split(' ',);
 //     // splitting the name into two parts of the array or multiple parts of an array 
