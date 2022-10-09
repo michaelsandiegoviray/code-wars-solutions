@@ -12,6 +12,23 @@ patrick feeney => P.F
 
 */
 
+function abbrevName(name) {
+
+
+    let newArr = []
+    let splitter = name.split(' ')
+
+    console.log(splitter)
+
+    return `${splitter[0][0].toUpperCase()}.${splitter[1][0].toUpperCase()}`
+
+
+
+}
+
+
+
+
 
 
 
