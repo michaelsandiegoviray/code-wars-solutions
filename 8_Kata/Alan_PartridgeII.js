@@ -16,17 +16,10 @@ Your job is simple, if (x) squared is more than 1000, return 'It's hotter than t
 X will be a valid integer number.
 X will be either a number or a string. Both are valid.
 
-
-
-
-
-
-
 */
 
 // if x^2 is more than 1000 return it's hotter than the sun, if it's false then return the other statement
 // so here we are using a ternary and a statement saying if the power of x^2 is > 1000 then we'll say it's hotter but if it's false then we do the other statement 
-
 function apple(x) {
     return Math.pow(x, 2) > 1000 ? 'It\'s hotter than the sun!!' : 'Help yourself to a honeycomb Yorkie for the glovebox.';
 }
