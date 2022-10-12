@@ -15,3 +15,9 @@ function twiceAsOld(d, s) {
     return d > 2 * s ? d - (s * 2) : (s * 2) - d
 
 }
+
+function multiplier(d, s) {
+
+    return d > 2 * s ? d - (s * 2) : (s * 2) - d
+
+}
