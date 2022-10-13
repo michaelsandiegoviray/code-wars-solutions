@@ -9,14 +9,27 @@ Given a non-empty array of integers, return the result of multiplying the values
 */
 
 
-function grow(x) {
+function double(x) {
 
 
-    return x.reduce((a, b) => a * b)
-
-
+    x.reduce((a, b) => a + b, 0)
 
 }
+
+
+
+
+
+
+
+// function grow(x) {
+
+
+//     return x.reduce((a, b) => a * b)
+
+
+
+// }
 
 
 // so here we are reducing and instead of adding like we usually do we are multiplying the values together
