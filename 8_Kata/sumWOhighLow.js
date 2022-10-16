@@ -20,3 +20,15 @@ function sumArray(array) {
     return decider = array === null || array === undefined || array === [] || array.length < 3 ? 0 : array.sort((a, b) => a - b).filter((element, index) => index > 0 && index < array.length - 1).reduce((a, b) => a + b, 0)
 }
 
+
+
+
+
+
+function dewer(arrays) {
+
+
+
+
+}
+
