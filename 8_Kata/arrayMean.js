@@ -26,8 +26,20 @@ var findAverage = function (nums) {
 
 
 
-    return nums.reduce((a,b) => (a+b))/nums.length
-    
+    return nums.reduce((a, b) => (a + b)) / nums.length
+
+}
+
+// so to find the mean of an array we can add all of them using a reduce array method to give us the sum then divide by the array's length to get the mean 
+function adder(nums) {
+    let sum
+
+    for (let i = 0; i <= nums.length; i++) {
+
+        sum += nums[i]
     }
 
-    // so to find the mean of an array we can add all of them using a reduce array method to give us the sum then divide by the array's length to get the mean 
+    return sum
+
+
+}
