@@ -14,28 +14,7 @@ For example,
 The correct answer would be 17.
 
 Hint: Don't forget to check for bad values like null/undefined
-
-
-
-
-
-
-
-
-
-
 */
-
-
-
-
-
-
-
-
-
-
-
 
 function countSheeps(arrayOfSheep) {
 
@@ -45,5 +24,4 @@ function countSheeps(arrayOfSheep) {
   return total
 
 }
-
 // here we are filtering for those that are true and those that are false by length 
