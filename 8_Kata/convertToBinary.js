@@ -20,7 +20,8 @@ toBinary(11) /* should return 1011
 
 
 
-function toBinary(n){
-    return parseInt(n.toString(2));
-  }
-  
+function toBinary(n) {
+  return parseInt(n.toString(2));
+}
+
+// Parse int will convert it to a specific number based on what we give it
