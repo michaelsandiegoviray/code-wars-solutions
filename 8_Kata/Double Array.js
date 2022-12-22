@@ -12,3 +12,16 @@ For example:
 function maps(x) {
     return x.map(n => n * 2);
 }
+
+
+function map(x) {
+
+    for (let i = 0; i <= x.length; i++) {
+
+        x[i] = x[i] * 2
+
+    }
+
+
+
+}
