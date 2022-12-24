@@ -14,3 +14,10 @@ Your code will show Full name of the neighbor and the truncated version of the n
 function whoIsPaying(name) {
     return (name.length > 2) ? ([name, name.substr(0, 2)]) : [name];
 }
+
+
+/*
+
+Here is the length of the name is greater then two we will return an array with the truncated version otherwise we will return name
+
+*/
