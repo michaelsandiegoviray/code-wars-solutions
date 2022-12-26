@@ -9,6 +9,9 @@ function usdcny(usd) {
 /*
 
 
+Here we take the total and multiply by 6.75 then toFixed method which will give it to two decimals 
+then we used a template literal to change it up and provide us with a text answer
+
 Create a function that converts US dollars (USD) to Chinese Yuan (CNY) . The input is the amount of USD as an integer, and the output should be a string that states the amount of Yuan followed by 'Chinese Yuan'
 
 Examples (Input -> Output)
